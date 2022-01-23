@@ -1,0 +1,8 @@
+imageviewer\persistence\FileImageLoader$1.class
+imageviewer\model\Image.class
+imageviewer\controller\Main.class
+imageviewer\persistence\ImageLoader.class
+imageviewer\persistence\FileImageLoader.class
+imageviewer\controller\MainFrame.class
+imageviewer\ui\ImageDisplay.class
+imageviewer\ui\SwingImageDisplay.class
